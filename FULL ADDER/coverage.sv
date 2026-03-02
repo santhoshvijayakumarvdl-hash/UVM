@@ -1,3 +1,6 @@
+//coverage 
+
+
 class my_cov extends uvm_subscriber#(seq_item);
   `uvm_component_utils(my_cov)
   
