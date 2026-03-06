@@ -1,4 +1,4 @@
-//coverage 
+//coverage model
 
 
 class my_cov extends uvm_subscriber#(seq_item);
